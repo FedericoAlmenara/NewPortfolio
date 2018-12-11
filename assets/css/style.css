@@ -6,7 +6,7 @@ html, body{
     width: 100%;
 }
 .navbar{
-    background-color: #234153;
+    color: #234153;
     padding: 1% 0%;
     font-size: 1.2em;
 }
@@ -43,7 +43,7 @@ html, body{
 }
 
 #home{
-    background: url(/assets/images/simple_blue_background-wallpaper-1152x720.jpg) no-repeat center center fixed;
+    background: url(../images/simple_blue_background-wallpaper-1152x720.jpg) no-repeat center center fixed;
     display:  table;
     height: 100%;
     position: relative;
@@ -57,4 +57,8 @@ html, body{
 }
 .padding{
     padding: 80px 0px;
+}
+#footer{
+    width: 100%;
+    background-color: #234153;
 }
